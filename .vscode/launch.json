@@ -6,6 +6,27 @@
     "configurations": [
         {
             "type": "java",
+            "name": "DosenDemo08",
+            "request": "launch",
+            "mainClass": "DosenDemo08",
+            "projectName": "Semester 2_edf49b69"
+        },
+        {
+            "type": "java",
+            "name": "MataKuliahDemo08",
+            "request": "launch",
+            "mainClass": "MataKuliahDemo08",
+            "projectName": "Semester 2_edf49b69"
+        },
+        {
+            "type": "java",
+            "name": "MahasiswaDemo8",
+            "request": "launch",
+            "mainClass": "MahasiswaDemo8",
+            "projectName": "Semester 2_edf49b69"
+        },
+        {
+            "type": "java",
             "name": "reviewarray8",
             "request": "launch",
             "mainClass": "reviewarray8",
