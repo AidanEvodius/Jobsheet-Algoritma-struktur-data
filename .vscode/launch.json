@@ -6,6 +6,20 @@
     "configurations": [
         {
             "type": "java",
+            "name": "MainLatihan008",
+            "request": "launch",
+            "mainClass": "MainLatihan008",
+            "projectName": "Semester 2_edf49b69"
+        },
+        {
+            "type": "java",
+            "name": "MainFaktorial8",
+            "request": "launch",
+            "mainClass": "MainFaktorial8",
+            "projectName": "Semester 2_edf49b69"
+        },
+        {
+            "type": "java",
             "name": "DosenDemo08",
             "request": "launch",
             "mainClass": "DosenDemo08",
